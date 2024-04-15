@@ -1,5 +1,4 @@
 alter session set current_schema = wksp_external;
 
-@category.sql
-
-@transaction.sql
+@10_category.sql
+@20_transaction.sql
